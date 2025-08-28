@@ -3,6 +3,8 @@ li a {
 }
 
 body {
-    background: white url("https://backgroundsy.com/wp-content/uploads/large/abstract-yellow-background.jpg") no-repeat;
+    background: white url("https://img.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg?semt=ais_hybrid&w=740") no-repeat;
+    background-size: cover;
+    background-position: center center;
     
 }
